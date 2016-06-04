@@ -1,16 +1,12 @@
 ---
 layout: post
 title:  "Week 1, Sprint 1"
-date:   2016-06-03 11:47:54 +0700
+date:   2016-06-03
 categories: sprint agile scrum corona lua android ios
 ---
 I started this blog just as a way to gather my thoughts and ideas, in a somewhat messy and verbose fashion.
 
- We've started an exciting `_posts`
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+<More to follow soon>
 
 {% highlight ruby %}
 def print_hi(name)
