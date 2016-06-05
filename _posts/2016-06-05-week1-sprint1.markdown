@@ -5,4 +5,6 @@ date:   2016-06-05
 categories: sprint agile scrum corona lua android ios
 ---
 
-![alt text](https://i.ytimg.com/vi/D0MyiGfFbEA/maxresdefault.jpg)
+Coming Soon...
+
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/scrum.jpg)
