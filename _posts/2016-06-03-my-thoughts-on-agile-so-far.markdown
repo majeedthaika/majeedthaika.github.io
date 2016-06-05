@@ -5,7 +5,7 @@ date:   2016-06-03
 categories: agile
 ---
 
-After having just completed out _first Sprint_ using the Agile model, I must say I've been very pleasantly surprised at it's _effectiveness_ - but, before diving straight into my _personal retrospective_ of our first Sprint, let me give some backstory into my experience in learning **The Agile Way** with P'Pond for the past few weeks.
+After having just completed our _first Sprint_ using the Agile model, I must say I've been very pleasantly surprised at it's _effectiveness_ - but, before diving straight into my _personal retrospective_ of our first Sprint, let me give some backstory into my experience in learning **The Agile Way** with P'Pond for the past few weeks.
 
 To be frank, at the start of the term, my expectation of the Agile class wasn't very high. It had never been offered before with a first-time teacher at the helm. There wasn't even have enough students interested to open the class in the first place. However, having met P'Pond once before (and just for a few minutes), I was convinced that we'd be learning some useful, real-world ideas and so I persuaded more than a handful of fellow students to enroll in the class (thus if the class turned out to be subpar, it would be on my head!).
 
