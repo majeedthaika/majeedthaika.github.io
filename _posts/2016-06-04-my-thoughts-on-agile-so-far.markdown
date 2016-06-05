@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My thoughts on Agile so far..."
-date:   2016-06-03
+date:   2016-06-04
 categories: agile
 ---
 
