@@ -5,6 +5,14 @@ date:   2016-06-05
 categories: sprint agile scrum corona lua android ios
 ---
 
-Coming Soon...
+Despite the misleading name, **Sprint** doesn't have anything to do with speed. In fact, we were much slower than the week before the Sprint. That week, I started and completed a fully-functional BlackJack minigame, while the rest of the team finished a TicTacToe minigame, the menu bar, and an 'egg' pet which can be fed and be 'happy'. Compared to the progress we made during the Sprint week, we were much faster - however, I believe the Sprint arguably helped us produce a much better 'product'.
+
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/experimental.jpg)![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/ttt.jpg)
+
+Before trying out the **Scrum way**, we used the _divide & conquer_ way - just a fancy way to say that we assigned each individual work to do on their own, with view to merge it at a later date. Much of the time was spent working on our own with minimal communication with each other, unless we had a technical problem. We didn't look at each others' code, we didn't know where each member was at with their tasks (aside from the occasional progress update videos), and the coding styles & naming were all over the place when trying to merge them all together.
+
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/blackjack.jpg)
+
+
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/scrum.jpg)
