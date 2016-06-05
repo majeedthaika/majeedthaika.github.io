@@ -5,15 +5,19 @@ date:   2016-06-05
 categories: sprint agile scrum corona lua android ios
 ---
 
-Despite the misleading name, **Sprint** doesn't have anything to do with speed. In fact, we were much slower than the week before the Sprint. That week, I started and completed a fully-functional BlackJack minigame, while the rest of the team finished a TicTacToe minigame, the menu bar, and an 'egg' pet which can be fed and be 'happy'. Compared to the progress we made during the Sprint week, we were much faster - however, I believe the Sprint arguably helped us produce a much better 'product'.
+Despite the misleading name, **Sprint** doesn't mean faster. In fact, we were much slower during the Sprint week compared to the week before. That week, I started and completed a fully-functional _BlackJack_ minigame, while the rest of the team finished a TicTacToe minigame, the menu bar, and an 'egg' pet which can be fed and be 'happy'.
+
+We were much faster then, however despite the slower speed, I believe the Sprint helped us make a much _**'better product'**_.
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/blackjack.png)
 
-Before trying out the **Scrum Way**, we used the _divide & conquer_ way - just a fancy way to say that we assigned each individual work to do on their own, with view to merge it at a later date. Much of the time was spent working on our own with minimal communication with each other, unless we had a technical problem. We didn't look at each others' code, we didn't know where each member was at with their tasks (aside from the occasional progress update videos), and when trying to merge all the mini-projects together, we saw that the coding style, naming culture, and theme were all over the place.
+Before trying out the **Scrum Way**, we used the _divide & conquer_ way - which is just a fancy way to say that we assigned each individual work to do on their own, with view to merge it at a later date. Much of the time was spent working on our own with minimal communication with each other, unless we had a technical problem.
+
+We didn't look at each others' code, we didn't know where each member was at with their tasks (aside from the occasional progress update videos), and when trying to merge all the mini-projects together, we saw that the coding style, naming culture, and theme were all over the place.
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/messedup.jpg)
 
-Sure we got a lot done, however the _technical debt_ was huge! Future iterations would have moved seriously slow since we would have to rewrite a lot of code, and try to make sense of what the original ~gangster~ coder was trying to do. We ran ourselves into a dead-end, but when all hope seemed lost, Scrum came in to save the day!
+Sure we got a lot done, however the _technical debt_ was huge! Future iterations would have moved seriously slow since we would have to rewrite a lot of code, and try to make sense of what the original ~~gangster~~ coder was trying to do. We ran ourselves into a dead-end, but when all hope seemed lost, Scrum came in to save the day!
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/scrum.jpg)
 
