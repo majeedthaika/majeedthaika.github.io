@@ -17,7 +17,7 @@ We didn't look at each others' code, we didn't know where each member was at wit
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/messedup.jpg)
 
-Sure we got a lot done, however the _technical debt_ was huge! Future iterations would have moved seriously slow since we would have to rewrite a lot of code, and try to make sense of what the original ~~gangster~~ coder was trying to do. We ran ourselves into a dead-end, but when all hope seemed lost, Scrum came in to save the day!
+Sure we got a lot done, however the _technical debt_ was huge! Future iterations would have moved seriously slow since we would have to rewrite a lot of code, and try to make sense of what the original ~~gangster~~ coder was trying to do. We ran ourselves into a dead-end, but when all hope seemed lost, in comes Scrum to save the day!
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/scrum.jpg)
 
