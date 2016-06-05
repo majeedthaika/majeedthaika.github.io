@@ -27,7 +27,7 @@ Following that, P'Roof came in to show us how to use Test-Driven Development (us
 
 Next, we were showed the idea of **Design Thinking**. It was an interesting concept, but ultimately it was the class I felt I learned the least in - not because of the speaker, but rather it was too general (probably due to the short time-constraint) and so, I didn't feel like I gained much of what I hadn't already known. In saying that however, we did do a cool demo of this _crazy 8_ idea, with which I did get to put my old Art-attack skills on show with my ~~million dollar~~ phone-cover/wallet idea.
 
-![alt text](designthinking)
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/designthinking.jpg)
 
 All in all, the **Agile** class definitely exceeded my expectations. It was less like traditional college classes, and more like an innovative Tech company's training sessions - I do enjoy my other classes, but it's pretty refreshing to have classes like this one.
 
