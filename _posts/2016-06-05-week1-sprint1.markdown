@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 1, Sprint 1"
+date:   2016-06-05
+categories: sprint agile scrum corona lua android ios
+---
+
+![alt text](https://i.ytimg.com/vi/D0MyiGfFbEA/maxresdefault.jpg)
