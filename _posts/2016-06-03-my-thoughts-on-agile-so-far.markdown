@@ -9,15 +9,15 @@ After having just completed out _first Sprint_ using the Agile model, I must say
 
 To be frank, at the start of the term, my expectation of the Agile class wasn't very high. It had never been offered before with a first-time teacher at the helm. There wasn't even have enough students interested to open the class in the first place. However, having met P'Pond once before (and just for a few minutes), I was convinced that we'd be learning some useful, real-world ideas and so persuaded more than a handful of fellow students to enroll in the class (thus if the class turned out to be subpar, it would be on my head!).
 
-In our first class, we had to introduce ourselves by citing our most relatable superhero and favorite drink. I chose Antman (Hank Pym) **_obviously_**, and Bubble Blueberry Green Tea (as it has become my go-to drink in the past year).
+Starting off, we had to introduce ourselves by citing our most relatable superhero and favorite drink. I chose Antman (Hank Pym) **_obviously_**, and Bubble Blueberry Green Tea (as it has become my go-to drink in the past year).
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/antman.jpg)
 
-In the same class, to simulate real-world work experience, we used _*cough*fake*cough*_ legos to build a model city based on Mayor Pond's requirements - which was as fun as it sounds.
+Next, to simulate real-world work experience, we used ~~fake~~ legos to build a model city based on Mayor Pond's requirements - which was as fun as it sounds.
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/lego2.jpg)
 
-In our next class, we wrote a step-by-step guide for aliens on _'How to make Toast'_.
+Later, we wrote a step-by-step guide for aliens on _'How to make Toast'_.
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/toast.jpg)
 
