@@ -11,7 +11,7 @@ To be frank, at the start of the term, my expectation of the Agile class wasn't 
 
 In our first class, we had to introduce ourselves by citing our most relatable superhero and favorite drink. I chose Antman (Hank Pym) **_obviously_**, and Bubble Blueberry Green Tea (as it has become my go-to drink in the past year).
 
-![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/antman.jpg) ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/bubbletea.jpg)
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/antman.jpg)
 
 In the same class, to simulate real-world work experience, we used _*cough*fake*cough*_ legos to build a model city based on Mayor Pond's requirements - which was as fun as it sounds.
 
