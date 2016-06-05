@@ -9,8 +9,8 @@ date: 2016-06-03
 1. <https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/>
 2. <http://jmcglone.com/guides/github-pages/>
 
-### My goals from this project are:
+### My goals from this project are to:
 
 1. Create an `aesthetically-pleasing` website.
 2. Serve as a platform to learn/polish my skills with `Haskell`, `HTML`, `CSS`, and `Ruby`.
-3. To have a personal website to document my thoughts and day-to-day projects.
+3. Have a personal website to document my thoughts and day-to-day projects.
