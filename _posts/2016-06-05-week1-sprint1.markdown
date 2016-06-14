@@ -21,4 +21,4 @@ Sure we got a lot done, however the _technical debt_ was huge! Future iterations
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/scrum.jpg)
 
-_More to follow soon..._
+_More to follow soon...._
