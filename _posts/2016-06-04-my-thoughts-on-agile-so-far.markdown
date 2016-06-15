@@ -21,7 +21,7 @@ Later, we wrote a step-by-step guide for aliens on _'How to make Toast'_.
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/toast.jpg)
 
-Following that, P'Roof came in to show us how to use Test-Driven Development (using acceptance tests to dictate how you write code) to produce code with easily-measurable progress (i.e. 19 out of 37 tests completed), while satisfying all of the project's requirements. We also had a fun demo of group programming, which showed us ~~how to torture each other~~ that two heads are better than one:
+Following that, P'Roof came in to show us how to use Test-Driven Development (using unit tests to dictate how you write code) to produce code with easily-measurable progress (i.e. 19 out of 37 tests completed), while satisfying all of the project's requirements. We also had a fun demo of group programming, which showed us ~~how to torture each other~~ that two heads are better than one:
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/tdd.jpg)
 
