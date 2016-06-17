@@ -25,10 +25,10 @@ At the start of the week, I migrated our existing work to an initial working tem
 
 ![alt text](https://raw.githubusercontent.com/SquicklyMonsters/SM_Sprints/master/ProgressScreenshot/Sprint1/Progess2_Screenshot.png)
 
-We had _daily standup_ meetings, but it didn't feel like we were gaining much from it, since we keep in touch regularly in Line anyway. It felt like we were doing it more as a chore rather than really gaining something out of it. Plus, some members weren't able to make it every day, and they were the ones that were most likely to benefit from listening to the group progress in meetings. We did try to allow Skype call-ins, but it was hard to communicate ideas through the computer screen. __Keeping group meetings so often seemed to reduce the importance of it__.
+We had _daily standup_ meetings, but it didn't feel like we were gaining much from it, since we keep in touch regularly in Line anyway. It felt like we were doing it more as a chore rather than really gaining something out of it. Plus, some members weren't able to make it every day, and they were the ones that were most likely to benefit from listening to the group progress in meetings. We did try to allow Skype call-ins, but it was hard to communicate ideas through the computer screen. **Keeping group meetings so often seemed to reduce the importance of it**.
 
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/standup1.jpg)
 
-
-
+At the end of the week, we had our very first **Sprint Retrospective**. P'Pond had hyped the activity up by talking about the one time he had witnessed a 4+, emotionally-intensive Hour Sprint Retrospective.
 
 _More to follow soon...._
