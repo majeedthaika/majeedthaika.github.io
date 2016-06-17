@@ -21,8 +21,14 @@ Sure we got a lot done, however the _technical debt_ was huge! Future iterations
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/scrum.jpg)
 
-At the start of the week, I migrated our existing work to an initial working template for our team to work on (so that we keep the coding culture) and make it much easier for us to merge our code later on. Cleaning up after our mess was hellish, but necessary. We created some placeholder graphic and icons, and also made it compatible with different phone screens. We also ran into some bugs to do with tapping the screen quickly, but Sam found a pretty cool solution (taking inspiration from locks in our OS class) soon after we talked it out.
+At the start of the week, I migrated our existing work to an initial working template for our team to work on (so that we keep the coding culture) and make it much easier for us to merge our code later on. Cleaning up after our mess was hellish, but necessary. We created some placeholder graphic and icons, and also made it compatible with different phone screens. We also ran into some bugs to do with tapping the screen quickly, but Sam found a pretty cool solution (taking inspiration from locking in our OS class) after we talked it out.
 
 ![alt text](https://raw.githubusercontent.com/SquicklyMonsters/SM_Sprints/master/ProgressScreenshot/Sprint1/Progess2_Screenshot.png)
+
+We had _daily standup_ meetings, but it didn't feel like we were gaining much from it, since we keep in touch regularly in Line anyway. It felt like we were doing it more as a chore rather than really gaining something out of it. Plus, some members weren't able to make it every day, and they were the ones that were most likely to benefit from listening to the group progress in meetings. We did try to allow Skype call-ins, but it was hard to communicate ideas through the computer screen. __Keeping group meetings so often seemed to reduce the importance of it__.
+
+
+
+
 
 _More to follow soon...._
