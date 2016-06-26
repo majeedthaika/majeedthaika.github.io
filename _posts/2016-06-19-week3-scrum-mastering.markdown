@@ -35,6 +35,8 @@ After having many group meetings, we were getting into a bit of a routine - and 
 
 Towards the end of the week, I had planned for us to go to a nearby _Board Game Cafe_ for our meeting, and to get some 'Research and Development' for a potential minigame in our app. However, most of the team were getting overloaded by homework from other classes and midterm exams, so we just had a normal meeting and shelved the trip for another day. Due to the increasing workload, I made a decision as SM to let the team take a breather and focus on their other works (so I pestered them less towards the end of the week).
 
-As a closing thought: at the start of the week, I did have a hard time seeing how I could be useful to the team by being Scrum Master given that we all had similar Agile knowledge anyway, but I believe it does help to have a _Batman helping from the shadows_; especially if the Devs aren't in regular contact with the rest of the team, the SM does help be the connection between teammates and provide vital support behind the scenes. ~~Because, I'm Batman.~~
+As a closing thought: at the start of the week, I did have a hard time seeing how I could be useful to the team by being Scrum Master given that we all had similar Agile knowledge anyway, but I believe it does help to have _Batman helping from the shadows_.
+
+Especially if the Devs aren't in regular contact with the rest of the team, the SM does help be the connection between teammates and provide vital support behind the scenes. ~~Because, I'm Batman.~~
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/supersm.png)
