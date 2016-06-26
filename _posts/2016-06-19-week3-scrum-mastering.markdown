@@ -15,7 +15,7 @@ So, like every other time I had no idea what I was doing, I just consulted my be
 
 Reading the posts, I learned that one of the main duties of a Scrum Master is to aid in **'Organizational Transformation'** - a fancy way to say that they will help smoothen the Scrum adoption of a team from being more traditional to a more _Agile team_. This can be done by preaching the _'Agile values'_ and helping out implement the periodic **Sprints**. However, since we had adopted the Scrum model for a couple of Sprints already, we didn't need too much insight into the Agile way, so instead I chose to focus on the big feature of a Scrum Master: Coaching and _causing any change that increases the productivity of the Scrum Team_.
 
-![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/funny_agile.jpg)
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/funny-agile.jpg)
 
 Specifically, I wanted to target the more 'underperforming' members of our team - the ones who I felt had more potential than what they had contributed thus far. I started with my roommate, PJ. In case I haven't mentioned it before, we had made a choice to use the Corona framework in Lua since it offers nice simulating feedback on a range of Android/iOS phones on top of a pretty straightforward language. The problem? PJ only has Linux on his laptop, which is incompatible with the Corona Labs Application. He tried dual-booting Windows on his laptop, but that proved to be too complicated and time-consuming.
 
@@ -37,4 +37,4 @@ Towards the end of the week, I had planned for us to go to the nearby _Board gam
 
 As a closing thought: at the start of the week, I did have a hard time seeing how I could be useful to the team by being Scrum Master given that we all had similar Agile knowledge anyway, but I believe it does help to have a _Batman helping from the shadows_; especially if the Devs aren't in regular contact with the rest of the team, the SM does help be the connection between teammates and provide vital support behind the scenes. ~~Because, I'm Batman.~~
 
-![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/supersm.jpg)
+![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/supersm.png)
