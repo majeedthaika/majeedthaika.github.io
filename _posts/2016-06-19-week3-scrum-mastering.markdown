@@ -11,7 +11,7 @@ Since I was neither an expert in _'Agile values'_, nor very knowledgeable in the
 
 ![alt text](https://raw.githubusercontent.com/majeedthaika/majeedthaika.github.io/master/img/sm_do.jpg)
 
-So, like every other time I had no idea what I was doing, I just consulted my best friend... _Google_! One of the first results I got was a [link](https://www.scrum.org/Forums/aft/477 "forum") in scrum.org, titled "What does a Scrum Master do all day?" - Glad to know I wasn't the only one who was puzzled over the role.
+So, like every other time I had no idea what I was doing, I just consulted my best friend... _Google_! One of the first results I got was a [forum post](https://www.scrum.org/Forums/aft/477) in scrum.org, titled "What does a Scrum Master do all day?" - Glad to know I wasn't the only one who was puzzled over the role.
 
 Reading the posts, I learned that one of the main duties of a Scrum Master is to aid in **'Organizational Transformation'** - which is just a fancy way to say that they will help the Dev team adopt the Scrum model. This is be done by preaching the _'Agile values'_ and helping implement periodic **Sprints**. However, since we've been using the Scrum model for a couple of Sprints already, we didn't need too much insight into the Agile way, so instead I chose to focus on the other big feature of being an SM: Coaching and _causing any change that increases the productivity of the Scrum Team_.
 
